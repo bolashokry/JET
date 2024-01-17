@@ -1,0 +1,4 @@
+server:
+  destination-broker: "/topic"
+  app.prefix: "/app"
+  endpoint: "/play"

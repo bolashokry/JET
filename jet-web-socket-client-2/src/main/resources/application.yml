@@ -1,0 +1,4 @@
+server.url: "ws://localhost:8080/play"
+game:
+  destination: "/app/play"
+  response-topic: "/topic/response"
